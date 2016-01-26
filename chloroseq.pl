@@ -150,7 +150,7 @@ if (-e $bam_name) {
 }
 
 else {
-PRINT STDERR "Starting prep_bam.sh.\n";
+print STDERR "Starting prep_bam.sh.\n";
 system("./prep_bam.sh $bam $name");
 }
 
