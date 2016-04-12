@@ -14,7 +14,7 @@ perl script that runs pipeline to:
 =head1 SYPNOSIS
 
 chloroseq.pl [-h] -a <analysis> -b <accepted_hits.bam> -e <exon.gff3> -i <intron.gff3> -g <genome_size>
--n <name> -v <editing_sites.gff3> -f <fasta> -s <splice_sites.gff3 -k <keep_files> 
+-n <name> -v <editing_sites.gff3> -f <fasta> -s <splice_sites.gff3> -k <keep_files> 
 
 =head2 I<Flags:>
 
@@ -50,7 +50,7 @@ B<fasta>                       genome file in fasta format (mandatory for analys
 
 =item -v 
 
-B<snps>                        file of known editing sites (optional for analysis 3)
+B<editing_sites.gff3>	       file of known editing sites (optional for analysis 3)
 
 =item -s
 
