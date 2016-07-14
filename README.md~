@@ -12,9 +12,6 @@ Bedtools v2.25.0 must be installed. If all 3 analyses are run it will produce ni
     Analysis 2 file:  splicing_efficiency.txt
     Analysis 3 files: editing.pileup, editing_efficiency.txt 
     
-The ChloroSeq_for_bin directory contains the scripts to download if willing to put them in a bin directory.
-The ChloroSeq_scripts directory contains the scripts to download if willing to use them in the working directory (./ to call the scripts).
-
 AUTHORS
 
 Benoît Castandet
