@@ -18,7 +18,7 @@ The ChloroSeq_scripts directory contains the scripts to download if willing to u
 AUTHORS
 
 Benoît Castandet
-(bc467@cornell.edu)
+(benoit.castandet@ips2.universite-paris-saclay.fr)
 
 Susan Strickler
 (srs57@cornell.edu)
